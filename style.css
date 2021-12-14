@@ -1,3 +1,27 @@
 body {
 background-color: salmon;
+  nav{
+  list-style-type: none;
+  background-color: #490;
+  width: 100%;
+  left 0;
+  top 0;
+  overflow: hidden;
+  position: fixed;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  display: block; 
+  color: white;
+  text-decoration: none;
+  padding: 15px 25px;
+}
+
+li a:hover{
+  background-color: red
+}
 }
