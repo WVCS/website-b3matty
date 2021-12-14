@@ -1,6 +1,6 @@
 body {
-background-color: salmon;
-  nav{
+  
+    nav{
   list-style-type: none;
   background-color: #490;
   width: 100%;
@@ -24,4 +24,6 @@ li a{
 li a:hover{
   background-color: red
 }
+background-color: salmon;
+
 }
