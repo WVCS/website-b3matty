@@ -1,13 +1,13 @@
 body {
   
-    nav{
+   nav{
   list-style-type: none;
   background-color: #490;
   width: 100%;
   left 0;
   top 0;
   overflow: hidden;
-  position: fixed;
+  position: sticky;
 }
 
 li{
