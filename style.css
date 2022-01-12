@@ -22,6 +22,10 @@ li a{
 li a:hover{
   background-color: red
 }
+h1{
+  color: #0B2545;
+  text-shadow: 1px 1px #F9DEC9;
+}
 body{
   background-color: #1F2833;
 }
